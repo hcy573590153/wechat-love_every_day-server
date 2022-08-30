@@ -1,0 +1,33 @@
+{
+# 发送信息配置
+# 公众号appId
+"app_id": "",
+# 公众号appSecret
+"app_secret": "",
+# 模板id
+"template_id": "",
+# 推送消息的微信号(列表)
+"users": ["vx"],
+
+# api配置
+# 浏览器header
+"headers":{
+        'Content-Type': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                      'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'
+},
+# 高德api key
+"weather_key": "",
+# 所在地区，请提供具体国内地址，例：天津市东丽区中国民航大学
+"region": "天津市东丽区中国民航大学",
+
+# 信息配置（日期格式严格遵守"年-月-日"格式）
+# 女生生日
+"female_birthday": {"name": "cy", "birthday": "2001-01-01"},
+# 男生生日
+"male_birthday": {"name": "hcy", "birthday": "2000-01-01"},
+# 在一起的日子
+"love_date": "",
+# 相识的日子
+"acquaint_day": "",
+}

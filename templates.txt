@@ -1,0 +1,22 @@
+{{datetime.DATA}}
+
+所在地区                {{region.DATA}}
+天气                       {{weather.DATA}}
+气温                       {{temperature.DATA}}
+风向                       {{wind_direction.DATA}}
+风力等级                {{wind_power.DATA}}
+空气湿度                {{humidity.DATA}}
+
+今天是我们相识的第{{acquaint_day.DATA}}天
+今天是我们恋爱的第{{love_day.DATA}}天
+距我们恋爱纪念日还有{{love_commemoration_day.DATA}}天
+
+{{female_birthday.DATA}}
+{{male_birthday.DATA}}
+
+{{soundbite_title.DATA}}
+{{soundbite_en.DATA}}
+{{soundbite_zh.DATA}}
+
+{{chicken_soup_title.DATA}}
+{{chicken_soup.DATA}}
